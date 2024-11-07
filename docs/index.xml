@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirko Gozzo</title>
+    <link>https://mirkogozzo.github.io/</link>
+    <description>Recent content on Mirko Gozzo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://mirkogozzo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mirkogozzo.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mirkogozzo.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Il dubbio è l&amp;rsquo;inizio della conoscenza.&amp;rdquo;&lt;/em&gt;    &lt;strong&gt;Cartesio&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sono un software engineer con esperienza decennale nel campo della progettazione e sviluppo applicativi.&lt;/p&gt;&#xA;&lt;p&gt;Da diversi anni mi occupo principalmente di progettare e sviluppare soluzioni tecnologiche legate al mondo finanziario con focus su bitcoin e criptovalute.&#xA;Ho iniziato attratto dagli aspetti tecnologici e dai concetti matematici del protocollo bitcoin, per poi scoprire e immergermi completamente in tutto ciò che coinvolge questo rivoluzionario fenomeno, approfondendone gli aspetti economici, sociali ed etici.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://mirkogozzo.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mirkogozzo.github.io/contact/</guid>
+      <description>&lt;p&gt;Send an email to: &lt;a href=&#34;mailto:mirkogozzo@hotmail.it&#34; &gt;mirkogozzo@hotmail.it&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://mirkogozzo.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mirkogozzo.github.io/projects/</guid>
+      <description>&lt;p&gt;Bitcoin blockchain-based document timestamping:&#xA;&lt;a href=&#34;https://tutelio.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tutelio.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Interior design studio&amp;rsquo;s website:&#xA;&lt;a href=&#34;https://dotform.it/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dotform.it/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;E-commerce platform:&#xA;&lt;a href=&#34;https://aziendaagricolacusumano.it/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aziendaagricolacusumano.it/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://mirkogozzo.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mirkogozzo.github.io/services/</guid>
+      <description>&lt;p&gt;Come posso aiutarti:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Progettazione e sviluppo siti web ed e-commerce&lt;/li&gt;&#xA;&lt;li&gt;Progettazione e sviluppo mobile app&lt;/li&gt;&#xA;&lt;li&gt;1-to-1 bitcoin session (intro a bitcoin, accettare pagamenti in bitcoin, custodire bitcoin)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
